@@ -1,6 +1,3 @@
-Here's a template for a README file for your Jupyter Notebook titled "Statements, Indentation and Conditionals.ipynb":
-
----
 
 # Statements, Indentation, and Conditionals
 
