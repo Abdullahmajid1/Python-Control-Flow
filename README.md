@@ -19,5 +19,3 @@ This Jupyter Notebook serves as a guide to understanding Python statements, inde
   - Tips for writing effective conditional statements and avoiding common pitfalls.
 llow along with the explanations and examples provided in the notebook.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
