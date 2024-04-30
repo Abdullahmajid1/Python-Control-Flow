@@ -1,5 +1,5 @@
 
-# Statements, Indentation, and Conditionals
+# Statements, Indentation, List Comprehension and Conditionals
 
 ## Overview
 This Jupyter Notebook serves as a guide to understanding Python statements, indentation, and conditional statements. It covers the fundamental concepts related to the structure of Python code and how to use conditional statements to control the flow of execution.
@@ -24,8 +24,9 @@ This Jupyter Notebook serves as a guide to understanding Python statements, inde
   
 follow along with the explanations and examples provided in the notebook.
 
-- `examples.py`: Contains examples of list comprehension usage with explanations.
-- `exercises.py`: Contains exercises for practicing list comprehension.
+- `Statements, Indentation and Conditionals.ipynb`: Contains examples for learning identation usage with explanations.
+- `List Comprehension.ipynb`: Contains exercises for practicing list comprehension.
+- `Loops & Iterations.ipynb`: Contains exercises for practicing loops and iterations.
 - `README.md`: You are here! This file provides an overview of the repository.
 
 ## Contributing
